@@ -12,5 +12,6 @@ python people_counter.py --input [Location of the Videos]
 
 
 --------------------Running the code for Gender Prediction--------------------
+
 Run the file after installing fastai library.
 
