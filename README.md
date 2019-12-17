@@ -6,3 +6,11 @@ For  counting  people  going  in  and  out  of  the  store,we are   firstly   de
 
 For   solving   the   gender   prediction   problem,   We   used ResNet34 pre-trained  model  which  was  trained  on  ImageNet dataset   using   fastai   library   in   python   created   on   top   of PyTorch.
 
+--------------------Running the code for People Counter--------------------
+>>Use command :
+python people_counter.py --input [Location of the Videos]
+
+
+--------------------Running the code for Gender Prediction--------------------
+Run the file after installing fastai library.
+
