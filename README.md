@@ -8,7 +8,7 @@ For   solving   the   gender   prediction   problem,   We   used ResNet34 pre-tr
 
 --------------------Running the code for People Counter--------------------
 >>Use command :
-python people_counter.py --input [Location of the Videos]
+python people_counter.py --videos [Location of the Videos]
 
 
 --------------------Running the code for Gender Prediction--------------------
